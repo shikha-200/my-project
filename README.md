@@ -30,26 +30,6 @@ This project addresses the need for sustainable consumption and production patte
    - Target: Achieve a 25% reduction in carbon footprint by 2030.
    - Measured annually with carbon emissions data from industrial sectors.
 
-## Dataset
 
-This project leverages a variety of datasets related to sustainable consumption and production, including:
-- **Global Consumption and Production Data**: Information on global consumption habits, including energy, materials, and food.
-- **Waste Management Data**: Data on waste generation, disposal, and recycling rates from global and national sources.
-- **Production Efficiency Metrics**: Data on industrial energy use, resource efficiency, and waste in production processes.
-- **Carbon Emissions Data**: Global data on carbon emissions related to industrial and consumer activities.
-
-## Methodology
-
-1. **Data Collection**: Data is collected from global agencies, environmental organizations, and industry reports.
-2. **Data Analysis**: Using statistical models and machine learning techniques to analyze consumption patterns, waste management practices, and production systems.
-3. **Scenario Modeling**: Predictive models to evaluate the impact of different sustainable consumption and production strategies.
-4. **Policy Recommendations**: Based on the analysis, recommendations are made for improving sustainability practices in industries and consumer behavior.
-
-## Deliverables
-
-1. **Background Document**: A detailed report outlining the analysis, findings, and recommendations for improving sustainable consumption and production.
-2. **README.md**: This document, providing an overview of the project and how to access the resources.
-3. **Code and Data**: The repository containing scripts, analysis tools, and datasets used in the project.
-4. **Presentation**: A visual summary of the findings and recommendations for stakeholders and policymakers.
 
 
