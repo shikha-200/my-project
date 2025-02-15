@@ -1,11 +1,14 @@
 # Ensuring Sustainable Consumption and Production Patterns
 
+*By: Shikha Rani*
+
 ## Executive Summary
 This project addresses the need for sustainable consumption and production patterns, as outlined in the United Nations Sustainable Development Goal (SDG) 12. Through comprehensive analysis of consumption, waste, and production data, this project aims to identify key drivers of unsustainable practices and recommend actionable interventions for both consumers and businesses. The focus is on promoting responsible resource use, reducing waste, and advancing circular economy principles globally.
 
 ## Key Performance Indicators (KPIs)
 
 1. **Sustainable Consumption Index (SCI)**
+   - <mark>it would be great to put a value statement for these KPIs, something that explains the benefit of knowing each kpi, which demonstrates we are concerned with the bigger picture. For example: The SCI supports the transition to a circular economy by fostering sustainable business models that enhance resource efficiency, reduce waste, and create long-term economic opportunities.</mark>
    - Measures the percentage of goods and services consumed in alignment with sustainability criteria.
    - Target: Increase the sustainable consumption share by 5% annually.
    - Baseline: Current global share of sustainable goods consumption is 20%.

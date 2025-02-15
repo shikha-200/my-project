@@ -20,13 +20,13 @@ Addressing SCP is critical for:
 ### Research Objectives
 This study aims to:
 1. Analyze global patterns in resource consumption and waste generation.
-2. Identify key determinants of successful sustainable production practices.
-3. Evaluate the impact of SCP policies on environmental and economic indicators.
+2. Identify key determinants of successful sustainable production practices.<mark>Will this really be possible, this seems ambitious, consider removing</mark>
+3. Evaluate the impact of SCP policies on environmental and economic indicators.<mark>to measure the impact of a policy, we need to measure something about the policy, like investment $ or similar.  This might not be possible, consider removing</mark>
 4. Forecast the future trajectory of SCP adoption using scenario modeling.
 
-### Potential Datasets
+### Datasets
 1. **UN Environment Programme (UNEP) SCP Data**
-   - Source: [https://www.unep.org/](https://www.unep.org/)
+   - Source: [https://www.unep.org/](https://www.unep.org/) <mark>If you provide a specific link to the data, I can help ensure it aligns with the KPis you indicated
    - Contents: Global SCP policies, trends, and material footprint data.
    - Temporal Coverage: 2000-2023
    - Geographic Scope: Global, country-level data
